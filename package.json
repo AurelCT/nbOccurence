@@ -1,5 +1,5 @@
 {
-  "name": "new",
+  "name": "nboccurence",
   "version": "1.0.0",
   "description": "",
   "main": "exo3.js",
@@ -10,10 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/AurelCT/nbOccurence.git"
   },
-  "author": "",
+  "author": "aurelc84",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/AurelCT/nbOccurence/issues"
   },
-  "homepage": "https://github.com/AurelCT/nbOccurence#readme"
+  "homepage": "https://github.com/AurelCT/nbOccurence#readme",
+  "keywords": [
+    "string",
+    "contains",
+    "substring"
+  ]
 }
